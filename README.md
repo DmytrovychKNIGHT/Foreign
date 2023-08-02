@@ -10,7 +10,7 @@ $ pip install bs4
 
 $ pip install rich
 
-$ git clone https://github.com/Xieraaa/Foreign
+$ git clone https://github.com/XieraaaYEAGER/Foreign
 
 $ cd Foreign
 
